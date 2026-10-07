@@ -1,2 +1,1 @@
-# this-is-my-frst-git repository
-Author - Mansi Raj
+# this-is-my-frst-git repository Author - Mansi Raj
